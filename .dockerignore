@@ -1,0 +1,13 @@
+**/bin/
+**/obj/
+**/.vs/
+**/.idea/
+**/.git/
+**/logs/
+.env
+.env.*
+!.env.example
+*.user
+docs/
+progress/
+specs/
